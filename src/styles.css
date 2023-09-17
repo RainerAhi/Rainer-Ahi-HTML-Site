@@ -211,7 +211,7 @@ a {
   outline: none;
 }
 body {
-  background: #6495ED;
+  background: #FF5F6D;
   -webkit-font-smoothing: antialiased;
   color: #fff;
   font-weight: 400;
@@ -244,10 +244,10 @@ p {
   height: 100%;
 }
 .background.background-0 {
-  background: linear-gradient(to left top, #9bddff, rgba(252,207,146,0) 70%);
+  background: linear-gradient(to left top, #FFC371, rgba(252,207,146,0) 70%);
 }
 .background.background-1 {
-  background: linear-gradient(to right top, #9bddff, rgba(250,189,160,0) 70%);
+  background: linear-gradient(to right top, #FFC371, rgba(250,189,160,0) 70%);
 }
 .button {
   display: inline-block;
@@ -316,7 +316,7 @@ p {
   height: 100%;
   align-items: center;
   justify-content: center;
-  color: #8bc7f9;
+  color: #FF5F6D;
   transform: translateX(100%);
   transition: transform 0.45s cubic-bezier(0.4, 0, 0.25, 1);
   will-change: transform;
@@ -502,7 +502,7 @@ p {
   text-transform: uppercase;
   padding: 10px 10px;
   font-weight: 700;
-  color: #8bc7f9;
+  color: #FF5F6D;
   background: #fff;
   border-radius: 10px;
 }
